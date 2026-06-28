@@ -9,42 +9,40 @@
 <title>the Build A Minifigure Archive</title>
 
 <style>
-:root{--bg:#222;--card:#333;--text:#eee;--border:#666;--badge:#ffcf00;--shadow:0 2px 8px rgba(0,0,0,.15);}
-body{margin:20px;font-family:Arial,Helvetica,sans-serif;background:var(--bg);color:var(--text);}
-h1{margin: 0; padding: 0; text-align:center;}
-#toolbar{display:flex;gap:15px;align-items:center;flex-wrap:wrap;margin-bottom:20px;}
-select,input,button{padding:6px 10px;font-size:15px;}
-#counter{margin-left:auto;font-weight:bold;}
-#cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(480px,1fr));gap:10px;}
 
+  body { margin:20px; font-family:Arial,Helvetica,sans-serif; background:#222; color:#eee; }
+  h1 { margin: 0; padding: 0; text-align:center; }
+  select,input,button { padding:6px 10px; font-size:15px; }
+  a { color: #E3000B; text-decoration:none; }
+  a:hover { color: #E3000B; text-decoration:underline; }
+
+  #toolbar { display:flex; gap:15px; align-items:center; flex-wrap:wrap; margin-bottom:20px; }
+  #counter { margin-left:auto; font-weight:bold; }
+  #cards { display:grid; grid-template-columns:repeat(auto-fill,minmax(480px,1fr)); gap:10px; }
   #byline { color: #E3000B; text-align: center; }
 
-.card{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:15px;box-shadow:var(--shadow);}
-.header{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;}
-.month{font-size:22px;font-weight:bold;}
-.grid{display:grid;grid-template-columns:220px 110px 110px;grid-template-rows:110px 110px 110px;gap:8px;}
-
-.figure{grid-row:1/span 3;display:flex;justify-content:center;align-items:center;border:1px solid var(--border);cursor:pointer;overflow:hidden;}
-.figure img{max-width:100%;max-height:100%;}
-
-.part{border:1px solid var(--border);padding:0;overflow:hidden;}
-.part img{display:block;width:100%;height:100%;object-fit:contain;}
-.part a{text-decoration:none;color:inherit;}
-.accessory{grid-column:2/span 2;}
-
-.notes{margin-top:12px;}
-.badges{margin-bottom:8px;}
-.badge{display:inline-block;background:var(--badge);color:#000;font-weight:bold;padding:3px 7px;border-radius:4px;margin:2px;}
-
-.modal{position:fixed;inset:0;background:rgba(0,0,0,.85);display:none;justify-content:center;align-items:center;z-index:999;}
-.modal img{max-width:90%;max-height:90%;}
+  .card { background:#333; border:1px solid #666; border-radius:8px; padding:15px; box-shadow:0 2px 8px rgba(0,0,0,.15); }
+  .header { display:flex; justify-content:space-between; align-items:center; margin-bottom:10px; }
+  .month { font-size:22px; font-weight:bold; }
+  .grid { display:grid; grid-template-columns:220px 110px 110px; grid-template-rows:110px 110px 110px; gap:8px; }
+  .figure { grid-row:1/span 3; display:flex; justify-content:center; align-items:center; border:1px solid #666; cursor:pointer; overflow:hidden; }
+  .figure img { max-width:100%; max-height:100%; }
+  .part { border:1px solid #666; padding:0; overflow:hidden; }
+  .part img { display:block; width:100%; height:100%; object-fit:contain; }
+  .part a { text-decoration:none; color:inherit; }
+  .accessory { grid-column:2/span 2; }
+  .notes { margin-top:12px; }
+  .badges { margin-bottom:8px; }
+  .badge { display:inline-block; background:#ffcf00; color:#000; font-weight:bold; padding:3px 7px; border-radius:4px; margin:2px; }
+  .modal { position:fixed; inset:0; background:rgba(0,0,0,.85); display:none; justify-content:center; align-items:center; z-index:999; }
+  .modal img { max-width:90%; max-height:90%; }
 </style>
 
 </head>
-<body class="dark">
-
+<body>
 <h1>the Build A Minifigure Archive</h1>
-<div id="byline">inspired and based on work by Steinreich</div>
+<div id="byline">Based on work by <a target="_blank" rel="noopener noreferrer" href="https://www.doctor-brick.de/members/steinreich.398/">Steinreich</a> at the <a target="_blank" rel="noopener noreferrer" href="https://www.doctor-brick.de">doctor-brick.de</a> forum</div>
+
 <div id="toolbar">
 <select id="year">
 <option selected>2026</option>
@@ -59,18 +57,13 @@ select,input,button{padding:6px 10px;font-size:15px;}
 </select>
 
 <input id="search" type="text" placeholder="Search...">
-
-
-
 <div id="counter">Showing 0 of 0 figures</div>
 </div>
 
 <div id="cards"></div>
-
 <div id="modal" class="modal"><img id="modalImage"></div>
 
 <script>
-
 const cards=document.getElementById("cards");
 const search=document.getElementById("search");
 const year=document.getElementById("year");
@@ -80,9 +73,9 @@ const modalImage=document.getElementById("modalImage");
 
 let figures=[];
 
-function closeModal(){
+function closeModal() { 
     modal.style.display="none";
-}
+ }
 
 modal.addEventListener("click",closeModal);
 document.addEventListener("keydown",closeModal);
@@ -92,41 +85,41 @@ search.oninput=render;
 
 loadYear();
 
-async function loadYear(){
+async function loadYear() { 
     const response=await fetch("data/"+year.value+".json?_=" + Date.now() );
     const json=await response.json();
     figures=json.bamfigs;
     render();
-}
+ }
 
-function render(){
+function render() { 
     cards.innerHTML="";
     const text=search.value.toLowerCase();
     const filtered=figures.filter(f=>JSON.stringify(f).toLowerCase().includes(text));
     counter.textContent="Showing "+filtered.length+" of "+figures.length+" figures";
     filtered.forEach((fig,index)=>cards.appendChild(createCard(fig,index)));
-}
+ }
 
-function partImage(color_id,part_id){
+function partImage(color_id,part_id) { 
     return "https://img.bricklink.com/ItemImage/PN/"+color_id+"/"+part_id+".png";
-}
+ }
 
-function partLink(id, color){
+function partLink(id, color) { 
     return "https://www.bricklink.com/v2/catalog/catalogitem.page?P="+id+"&C="+color;
-}
+ }
 
-function figureImage(fig){
-    if (fig.figure_id && fig.figure_id !== "null") { return "https://img.bricklink.com/ItemImage/MN/0/"+fig.figure_id+".png"; }
-    if (fig.figure_picture && fig.figure_picture !== "null") { return fig.figure_picture.startsWith("https://") ? fig.figure_picture : "pictures/" + fig.figure_picture; }
+function figureImage(fig) { 
+    if (fig.figure_id && fig.figure_id !== "null")  {  return "https://img.bricklink.com/ItemImage/MN/0/"+fig.figure_id+".png";  }
+    if (fig.figure_picture && fig.figure_picture !== "null")  {  return fig.figure_picture.startsWith("https://") ? fig.figure_picture : "pictures/" + fig.figure_picture;  }
     return "https://brick2d2.com/cdn/shop/files/myteryminifigur.png";
-}
+ }
 
-function partBox(part){
-    if (!part || part === "null" || !part.id || part.id === "null") {
+function partBox(part) { 
+    if (!part || part === "null" || !part.id || part.id === "null")  { 
         const empty = document.createElement("div");
         empty.className = "part";
         return empty;
-    }
+     }
 
     const div=document.createElement("div");
     div.className="part";
@@ -136,10 +129,10 @@ function partBox(part){
         </a>
     `;
     return div;
-}
+ }
 
 
-function parseBadges(note){
+function parseBadges(note) { 
 
     if(!note) return "";
 
@@ -147,9 +140,9 @@ function parseBadges(note){
 
     const n=note.toLowerCase();
 
-    if(n.includes("alles")){
+    if(n.includes("alles")) { 
         badges.push("Headgear","Head","Torso","Legs","Accessory");
-    }else{
+     }else { 
         if(n.includes("kopfbedeck")) badges.push("Headgear");
         if(n.includes("haare")) badges.push("Headgear");
         if(n.includes("kopf")) badges.push("Head");
@@ -164,14 +157,14 @@ function parseBadges(note){
         if(n.includes("tail")) badges.push("Accessory");
         if(n.includes("einzelteil")) badges.push("All parts");
         if(n.includes("zubeh")) badges.push("Accessory");
-    }
+     }
 
     return [...new Set(badges)]
         .map(x=>`<span class="badge">${x}</span>`)
         .join("");
-}
+ }
 
-function createCard(fig,index){
+function createCard(fig,index) { 
 
     const card=document.createElement("div");
     card.className="card";
@@ -184,10 +177,10 @@ function createCard(fig,index){
 
     figure.innerHTML=`<img src="${figureImage(fig)}">`;
 
-    figure.onclick=()=>{
+    figure.onclick=()=> { 
         modalImage.src=figureImage(fig);
         modal.style.display="flex";
-    };
+     };
 
     grid.appendChild(figure);
 
@@ -215,13 +208,13 @@ function createCard(fig,index){
     notes.innerHTML=`
         <div class="badges">${parseBadges(fig.note)}</div>
 
-        ${fig.color_notes?`<b>Notes:</b> ${fig.color_notes}`:""}
+        ${fig.color_notes?`<b>Notes:</b>${fig.color_notes}`:""}
     `;
 
     card.appendChild(notes);
 
     return card;
-}
+ }
 
 </script>
 
