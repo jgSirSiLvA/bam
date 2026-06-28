@@ -1,0 +1,96 @@
+{
+  "bamfigs": [
+    {
+      "month": null,
+      "figure_id": "hol171",
+      "figure_name": "Spider Lady",
+      "figure_picture": "null",
+      "headgear": {"id": "15503", "color_id": 11},
+      "head": {"id": "3626pb2239", "color_id": 1},
+      "torso": {"id": "973pb3320c01", "color_id": 11},
+      "pants": {"id": "3678bpb114", "color_id": 11},
+      "accessory": {"id": "20695pb01", "color_id": 4},
+      "note": "Oberkörper, Rock, Kopf, Haare ",
+      "color_notes": null
+    },
+    {
+      "month": null,
+      "figure_id": "hol172",
+      "figure_name": "Vampire",
+      "figure_picture": "null",
+      "headgear": {"id": "64798", "color_id": 11},
+      "head": {"id": "3626pb2240", "color_id": 86},
+      "torso": {"id": "973pb3319c01", "color_id": 11},
+      "pants": {"id": "970c00", "color_id": 11},
+      "accessory": {"id": "30103", "color_id": 11},
+      "note": "Oberkörper, Kopf ",
+      "color_notes": null
+    },
+    {
+      "month": null,
+      "figure_id": "hol173",
+      "figure_name": "Wacky Witch",
+      "figure_picture": "null",
+      "headgear": {"id": "20606pb02", "color_id": 28},
+      "head": {"id": "3626pb2238", "color_id": 34},
+      "torso": {"id": "973pb3530c01", "color_id": 89},
+      "pants": {"id": "970c00pb0918", "color_id": 11},
+      "accessory": {"id": "4332", "color_id": 88},
+      "note": "Oberkörper, Beine, Kopf ",
+      "color_notes": null
+    },
+    {
+      "month": null,
+      "figure_id": "hol239",
+      "figure_name": "Santa",
+      "figure_picture": "null",
+      "headgear": {"id": "10164pb03", "color_id": 1},
+      "head": {"id": "3626pb1838", "color_id": 3},
+      "torso": {"id": "973pb1243c01", "color_id": 5},
+      "pants": {"id": "970c00", "color_id": 5},
+      "accessory": {"id": "93223", "color_id": 1},
+      "note": "kein Teil ",
+      "color_notes": null
+    },
+    {
+      "month": null,
+      "figure_id": "hol241",
+      "figure_name": "Mrs. Claus",
+      "figure_picture": "null",
+      "headgear": {"id": "93217", "color_id": 86},
+      "head": {"id": "3626pb1210", "color_id": 3},
+      "torso": {"id": "973pb3371c01", "color_id": 1},
+      "pants": {"id": "3678bpb115", "color_id": 80},
+      "accessory": {"id": "93568pb01", "color_id": 150},
+      "note": "Oberkörper, Rock ",
+      "color_notes": null
+    },
+
+    {
+      "month": null,
+      "figure_id": "null",
+      "figure_name": "Elf - Red Hat",
+      "figure_picture": "https://cdn.rebrickable.com/media/thumbs/sets/fig-010022/85085.jpg/800x800p.jpg",
+      "headgear": {"id": "13787pb02", "color_id": 3},
+      "head": {"id": "3626pb0984", "color_id": 3},
+      "torso": {"id": "973pb3372c01", "color_id": 6},
+      "pants": {"id": "41879", "color_id": 80},
+      "accessory": {"id": "10169", "color_id": 150},
+      "note": "Oberkörper, Rock ",
+      "color_notes": null
+    },
+    {
+      "month": null,
+      "figure_id": null,
+      "figure_name": "miscellaneous",
+      "figure_picture": null,
+      "headgear": {"id": "95327pb02", "color_id": 11},
+      "head": {"id": "93218pb06", "color_id": 110},
+      "torso": {"id": "87995", "color_id": 7},
+      "pants": {"id": "13788pb02", "color_id": 39},
+      "accessory": {"id": "", "color_id": 0},
+      "note": "Einzelteile nur bei BAM",
+      "color_notes": null
+    }
+  ]
+}

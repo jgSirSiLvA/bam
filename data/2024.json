@@ -1,0 +1,1124 @@
+{
+  "bamfigs": [
+    {
+      "month": "Januar",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "3844",
+        "color_id": 11
+      },
+      "head": {
+        "id": "3626pb2903",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "973pb4841c01",
+        "color_id": "5"
+      },
+      "pants": {
+        "id": "970c00pb0420",
+        "color_id": "88"
+      },
+      "accessory": {
+        "id": "3846pb062",
+        "color_id": "86"
+      },
+      "note": null,
+      "color_notes": null
+    },
+    {
+      "month": "Januar",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "93563",
+        "color_id": "2"
+      },
+      "head": {
+        "id": "3626pb2898",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "973pb3780c01",
+        "color_id": "80"
+      },
+      "pants": {
+        "id": "970c00pb1023",
+        "color_id": 68
+      },
+      "accessory": {
+        "id": "93221pb03",
+        "color_id": "86"
+      },
+      "note": null,
+      "color_notes": "Mohawk = Orange"
+    },
+    {
+      "month": "Januar",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "67043pb01",
+        "color_id": 2
+      },
+      "head": {
+        "id": "3626pb2145",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "973pb3956c01",
+        "color_id": "7"
+      },
+      "pants": {
+        "id": "970c00pb1574",
+        "color_id": "7"
+      },
+      "accessory": {
+        "id": "4499",
+        "color_id": "1"
+      },
+      "note": "Beine",
+      "color_notes": "Bow = Dark Tan"
+    },
+    {
+      "month": "Januar",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "80577pb03",
+        "color_id": "88"
+      },
+      "head": {
+        "id": "3626pb3404",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "973pb5550c01",
+        "color_id": "39"
+      },
+      "pants": {
+        "id": "41879",
+        "color_id": "3"
+      },
+      "accessory": {
+        "id": "18746",
+        "color_id": 110
+      },
+      "note": "Oberkörper",
+      "color_notes": null
+    },
+    {
+      "month": "Januar",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "87991",
+        "color_id": 11
+      },
+      "head": {
+        "id": "3626pb3224",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "973pb5549c01",
+        "color_id": "5"
+      },
+      "pants": {
+        "id": "970c00pb0575",
+        "color_id": "5"
+      },
+      "accessory": {
+        "id": "3069pb1064",
+        "color_id": "5"
+      },
+      "note": "Oberkörper",
+      "color_notes": null
+    },
+    {
+      "month": "Januar",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "11256",
+        "color_id": 226
+      },
+      "head": {
+        "id": "3626pb3319",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "973pb0567c01",
+        "color_id": "1"
+      },
+      "pants": {
+        "id": "970c00pb1596",
+        "color_id": "36"
+      },
+      "accessory": {
+        "id": "10183",
+        "color_id": "18"
+      },
+      "note": "Beine, Kopf und Flügel",
+      "color_notes": null
+    },
+    {
+      "month": "Januar",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "17347",
+        "color_id": 154
+      },
+      "head": {
+        "id": "3626pb1567",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "973pb2828c01",
+        "color_id": "11"
+      },
+      "pants": {
+        "id": "970c00pb1597",
+        "color_id": "63"
+      },
+      "accessory": {
+        "id": "18920",
+        "color_id": "115"
+      },
+      "note": "Beine",
+      "color_notes": null
+    },
+    {
+      "month": "Februar",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "35701",
+        "color_id": 153
+      },
+      "head": {
+        "id": "3626pb2634",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "37191c08",
+        "color_id": "47"
+      },
+      "pants": {
+        "id": "970c00",
+        "color_id": 47
+      },
+      "accessory": {
+        "id": "90370",
+        "color_id": "71"
+      },
+      "note": "Oberkörper",
+      "color_notes": null
+    },
+    {
+      "month": "Februar",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "66972pb02",
+        "color_id": "2"
+      },
+      "head": {
+        "id": "3626pb2308",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "973pb5625c01",
+        "color_id": "156"
+      },
+      "pants": {
+        "id": "970c00pb0575",
+        "color_id": 71
+      },
+      "accessory": {
+        "id": "25975pb02",
+        "color_id": "1"
+      },
+      "note": "Oberkörper, Beine und Kopfbedeckung",
+      "color_notes": null
+    },
+    {
+      "month": "Februar",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "20595",
+        "color_id": 104
+      },
+      "head": {
+        "id": "3626pb3324",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "973pb5624c01",
+        "color_id": "7"
+      },
+      "pants": {
+        "id": "970c00",
+        "color_id": "3"
+      },
+      "accessory": {
+        "id": "24782",
+        "color_id": "1"
+      },
+      "note": "Oberkörper, Kopf und Rock",
+      "color_notes": null
+    },
+    {
+      "month": "Februar",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "25971pb01",
+        "color_id": "153"
+      },
+      "head": {
+        "id": "3626pb1879",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "973pb5627c01",
+        "color_id": "153"
+      },
+      "pants": {
+        "id": "970c00",
+        "color_id": 153
+      },
+      "accessory": {
+        "id": "80679pb03",
+        "color_id": "86"
+      },
+      "note": "Oberkörper",
+      "color_notes": null
+    },
+    {
+      "month": "Februar",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "3557pb01",
+        "color_id": "1"
+      },
+      "head": {
+        "id": "3626pb1569",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "973pb5626c01",
+        "color_id": "1"
+      },
+      "pants": {
+        "id": "970c00pb1465",
+        "color_id": "85"
+      },
+      "accessory": {
+        "id": "29602pb01",
+        "color_id": "2"
+      },
+      "note": "Oberkörper und Hund",
+      "color_notes": "Dog = Dark Tan"
+    },
+    {
+      "month": "Februar",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "100903pb01",
+        "color_id": "4"
+      },
+      "head": {
+        "id": "3626pb3082",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "973pb1978c01",
+        "color_id": "104"
+      },
+      "pants": {
+        "id": "970c00",
+        "color_id": 71
+      },
+      "accessory": {
+        "id": "80674pb03",
+        "color_id": "11"
+      },
+      "note": null,
+      "color_notes": null
+    },
+    {
+      "month": "Mai",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "61506",
+        "color_id": 308
+      },
+      "head": {
+        "id": "3626pb3393",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "973pb4185c01",
+        "color_id": "68"
+      },
+      "pants": {
+        "id": "970c68pb05",
+        "color_id": "63"
+      },
+      "accessory": {
+        "id": "61975",
+        "color_id": "1"
+      },
+      "note": "Beine",
+      "color_notes": null
+    },
+    {
+      "month": "Mai",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "98385",
+        "color_id": 5
+      },
+      "head": {
+        "id": "3626pb2761",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "973pb5515c04",
+        "color_id": "1"
+      },
+      "pants": {
+        "id": "970c01pb67",
+        "color_id": "63"
+      },
+      "accessory": {
+        "id": "24093pb070",
+        "color_id": "15"
+      },
+      "note": null,
+      "color_notes": null
+    },
+    {
+      "month": "Mai",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "22380",
+        "color_id": 63
+      },
+      "head": {
+        "id": "3626pb3214",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "973pb5515c01",
+        "color_id": "1"
+      },
+      "pants": {
+        "id": "970c01pb67",
+        "color_id": "63"
+      },
+      "accessory": {
+        "id": "78643pb10",
+        "color_id": "1"
+      },
+      "note": "Brustpanzer",
+      "color_notes": null
+    },
+    {
+      "month": "Mai",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "12892",
+        "color_id": "34"
+      },
+      "head": {
+        "id": "3626pb3327",
+        "color_id": "34"
+      },
+      "torso": {
+        "id": "973pb5660c01",
+        "color_id": "1"
+      },
+      "pants": {
+        "id": "970c00",
+        "color_id": "3"
+      },
+      "accessory": {
+        "id": "93549pb02",
+        "color_id": "12"
+      },
+      "note": "Oberkörper und Kopf",
+      "color_notes": null
+    },
+    {
+      "month": "Mai",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "11303",
+        "color_id": "1"
+      },
+      "head": {
+        "id": "3626pb3326",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "973pb3772c01",
+        "color_id": "63"
+      },
+      "pants": {
+        "id": "970c00",
+        "color_id": "3"
+      },
+      "accessory": {
+        "id": "19220",
+        "color_id": "5"
+      },
+      "note": "Kopf",
+      "color_notes": null
+    },
+    {
+      "month": "Mai",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "18899pb01",
+        "color_id": "1"
+      },
+      "head": {
+        "id": "3626pb2381",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "973pb2017c01",
+        "color_id": "4"
+      },
+      "pants": {
+        "id": "970c00pb1631",
+        "color_id": "158"
+      },
+      "accessory": {
+        "id": "98368",
+        "color_id": "5"
+      },
+      "note": "Beine",
+      "color_notes": null
+    },
+    {
+      "month": "Mai",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "38800",
+        "color_id": "88"
+      },
+      "head": {
+        "id": "3626pb3201",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "973pb5311c01",
+        "color_id": "11"
+      },
+      "pants": {
+        "id": "970c00",
+        "color_id": "3"
+      },
+      "accessory": {
+        "id": "80444pb01",
+        "color_id": "88"
+      },
+      "note": null,
+      "color_notes": null
+    },
+    {
+      "month": "Juli",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "64807",
+        "color_id": 68
+      },
+      "head": {
+        "id": "3626pb2537",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "973pb5739c01",
+        "color_id": "1"
+      },
+      "pants": {
+        "id": "24068pb04",
+        "color_id": "1"
+      },
+      "accessory": {
+        "id": "80674pb01",
+        "color_id": "103"
+      },
+      "note": "Oberkörper und Rock",
+      "color_notes": null
+    },
+    {
+      "month": "Juli",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "16178pb02",
+        "color_id": "11"
+      },
+      "head": {
+        "id": "3626pb1211",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "973pb5741c01",
+        "color_id": "5"
+      },
+      "pants": {
+        "id": "970c00",
+        "color_id": "3"
+      },
+      "accessory": {
+        "id": "10172",
+        "color_id": "115"
+      },
+      "note": "Oberkörper und Haare",
+      "color_notes": null
+    },
+    {
+      "month": "Juli",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "99241",
+        "color_id": "71"
+      },
+      "head": {
+        "id": "3626pb3634",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "973pb5732c01",
+        "color_id": "3"
+      },
+      "pants": {
+        "id": "970c00pb0575",
+        "color_id": "5"
+      },
+      "accessory": {
+        "id": "99250pb01",
+        "color_id": "5"
+      },
+      "note": "Oberkörper, Kopf und Bademütze",
+      "color_notes": null
+    },
+    {
+      "month": "Juli",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "80577pb01",
+        "color_id": "103"
+      },
+      "head": {
+        "id": "3626pb0690",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "973pb4543c01",
+        "color_id": "104"
+      },
+      "pants": {
+        "id": "970c00",
+        "color_id": "3"
+      },
+      "accessory": {
+        "id": "33051",
+        "color_id": "5"
+      },
+      "note": null,
+      "color_notes": null
+    },
+    {
+      "month": "Juli",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "41334",
+        "color_id": "5"
+      },
+      "head": {
+        "id": "3626pb3633",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "973pb5740c01",
+        "color_id": "1"
+      },
+      "pants": {
+        "id": "970c00",
+        "color_id": "3"
+      },
+      "accessory": {
+        "id": "4342",
+        "color_id": "1"
+      },
+      "note": "Oberkörper und Kopf",
+      "color_notes": null
+    },
+    {
+      "month": "Juli",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "87990",
+        "color_id": 88
+      },
+      "head": {
+        "id": "3626pb2696",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "973pb2850c01",
+        "color_id": "11"
+      },
+      "pants": {
+        "id": "970c00",
+        "color_id": "3"
+      },
+      "accessory": {
+        "id": "3069pb1062",
+        "color_id": "1"
+      },
+      "note": null,
+      "color_notes": null
+    },
+    {
+      "month": "Juli",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "11303",
+        "color_id": 153
+      },
+      "head": {
+        "id": "3626pb0628",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "973pb4979c01",
+        "color_id": "153"
+      },
+      "pants": {
+        "id": "970c00",
+        "color_id": 55
+      },
+      "accessory": {
+        "id": "69962pb01",
+        "color_id": "2"
+      },
+      "note": "Mütze",
+      "color_notes": null
+    },
+    {
+      "month": "September",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "1989",
+        "color_id": "86"
+      },
+      "head": {
+        "id": "3626pb3685",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "973p90new2c11",
+        "color_id": "63"
+      },
+      "pants": {
+        "id": "970c00pb1427",
+        "color_id": "55"
+      },
+      "accessory": {
+        "id": "93549pb01",
+        "color_id": "12"
+      },
+      "note": "Oberkörper und Kopf",
+      "color_notes": null
+    },
+    {
+      "month": "September",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "2003pb04",
+        "color_id": "88"
+      },
+      "head": {
+        "id": "3626pb3684",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "973pb5824c01",
+        "color_id": "153"
+      },
+      "pants": {
+        "id": "970c00pb1528",
+        "color_id": "85"
+      },
+      "accessory": {
+        "id": "58176pb01",
+        "color_id": "108"
+      },
+      "note": "Oberkörper, Kopf und Haare",
+      "color_notes": null
+    },
+    {
+      "month": "September",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "36037",
+        "color_id": 104
+      },
+      "head": {
+        "id": "3626pb3439",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "973pb5357c01",
+        "color_id": "154"
+      },
+      "pants": {
+        "id": "970c00",
+        "color_id": "3"
+      },
+      "accessory": {
+        "id": "3852b",
+        "color_id": "3"
+      },
+      "note": null,
+      "color_notes": null
+    },
+    {
+      "month": "September",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "1988",
+        "color_id": "71"
+      },
+      "head": {
+        "id": "3626pb3432",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "973pb5823c01",
+        "color_id": "85"
+      },
+      "pants": {
+        "id": "970c00pb0821",
+        "color_id": "63"
+      },
+      "accessory": {
+        "id": "80686pb01",
+        "color_id": "1"
+      },
+      "note": "Oberkörper und Haare",
+      "color_notes": null
+    },
+    {
+      "month": "September",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "20595",
+        "color_id": 308
+      },
+      "head": {
+        "id": "3626pb0690",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "973pb5822c01",
+        "color_id": "110"
+      },
+      "pants": {
+        "id": "970c00",
+        "color_id": 156
+      },
+      "accessory": {
+        "id": "66965pb02",
+        "color_id": "156"
+      },
+      "note": "Oberkörper",
+      "color_notes": null
+    },
+    {
+      "month": "September",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "x219",
+        "color_id": "1"
+      },
+      "head": {
+        "id": "3626pb3448",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "973pb5352c01",
+        "color_id": "154"
+      },
+      "pants": {
+        "id": "970c00",
+        "color_id": 89
+      },
+      "accessory": {
+        "id": "98382pb001",
+        "color_id": "150"
+      },
+      "note": null,
+      "color_notes": null
+    },
+    {
+      "month": "September",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "25412",
+        "color_id": 226
+      },
+      "head": {
+        "id": "3626pb3450",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "973pb5375c01",
+        "color_id": "5"
+      },
+      "pants": {
+        "id": "970c00",
+        "color_id": "3"
+      },
+      "accessory": {
+        "id": "30194",
+        "color_id": "95"
+      },
+      "note": null,
+      "color_notes": null
+    },
+    {
+      "month": "September",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "66915",
+        "color_id": 220
+      },
+      "head": {
+        "id": "3626pb0001",
+        "color_id": "1"
+      },
+      "torso": {
+        "id": "973pb5875c01",
+        "color_id": "1"
+      },
+      "pants": {
+        "id": "970c11pb56",
+        "color_id": "1"
+      },
+      "accessory": {
+        "id": "20695pb01",
+        "color_id": "4"
+      },
+      "note": "Oberkörper und Beine",
+      "color_notes": null
+    },
+    {
+      "month": "September",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "73213pb01",
+        "color_id": "69"
+      },
+      "head": {
+        "id": "3626pb3704",
+        "color_id": "34"
+      },
+      "torso": {
+        "id": "973pb5874c01",
+        "color_id": "11"
+      },
+      "pants": {
+        "id": "36036pb083",
+        "color_id": "11"
+      },
+      "accessory": {
+        "id": "13786pb11",
+        "color_id": "68"
+      },
+      "note": "Oberkörper, Rock, Kopf und Katze",
+      "color_notes": null
+    },
+    {
+      "month": "September",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "93563",
+        "color_id": 89
+      },
+      "head": {
+        "id": "3626pb3357",
+        "color_id": "98"
+      },
+      "torso": {
+        "id": "973pb5876c01",
+        "color_id": "11"
+      },
+      "pants": {
+        "id": "19859pb08",
+        "color_id": "51"
+      },
+      "accessory": {
+        "id": "98369",
+        "color_id": "158"
+      },
+      "note": "Oberkörper und Haare",
+      "color_notes": null
+    },
+    {
+      "month": "November",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "102264pb01",
+        "color_id": null
+      },
+      "head": {
+        "id": "3626pb2914",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "973pb5898c01",
+        "color_id": "5"
+      },
+      "pants": {
+        "id": "970c00pb0575",
+        "color_id": "5"
+      },
+      "accessory": {
+        "id": "90397pb021",
+        "color_id": "34"
+      },
+      "note": "Oberkörper und Surfbrett",
+      "color_notes": null
+    },
+    {
+      "month": "November",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "5320",
+        "color_id": 48
+      },
+      "head": {
+        "id": "3626pb1507",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "37191c09",
+        "color_id": "6"
+      },
+      "pants": {
+        "id": "970c00",
+        "color_id": 5
+      },
+      "accessory": {
+        "id": "26603pb461",
+        "color_id": "6"
+      },
+      "note": "Oberkörper und Fliese",
+      "color_notes": null
+    },
+    {
+      "month": "November",
+      "figure_id": null,
+      "figure_name": null,
+      "figure_picture": null,
+      "headgear": {
+        "id": "65579",
+        "color_id": 308
+      },
+      "head": {
+        "id": "3626pb0471",
+        "color_id": "3"
+      },
+      "torso": {
+        "id": "973pb5897c01",
+        "color_id": "1"
+      },
+      "pants": {
+        "id": "41879",
+        "color_id": 39
+      },
+      "accessory": {
+        "id": "41835pb01",
+        "color_id": "1"
+      },
+      "note": "Oberkörper",
+      "color_notes": null
+    }
+  ]
+}

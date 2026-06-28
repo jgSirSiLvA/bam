@@ -1,0 +1,139 @@
+{
+  "bamfigs": [
+
+    {
+      "month": null,
+      "figure_id": null,
+      "figure_name": "",
+      "figure_picture": null,
+      "headgear": {"id": "20592pb02", "color_id": 103},
+      "head": {"id": "3626pb2084", "color_id": 3},
+      "torso": {"id": "973pb3678c01", "color_id": 11},
+      "pants": {"id": "970c00pb1015", "color_id": 4},
+      "accessory": {"id": "26078pb003", "color_id": 11},
+      "note": "Haare, Oberkörper, Beine und Zubehör",
+      "color_notes": null
+    },
+    {
+      "month": null,
+      "figure_id": null,
+      "figure_name": "Pumpkin Head",
+      "figure_picture": null,
+      "headgear": {"id": "28798pb01", "color_id": 4},
+      "head": {"id": "3626pb2485", "color_id": 4},
+      "torso": {"id": "973pb2391c01", "color_id": 11},
+      "pants": {"id": "3678bpb020", "color_id": 11},
+      "accessory": {"id": "6256pb04", "color_id": 110},
+      "note": "Kopf, Haare",
+      "color_notes": null
+    },
+    {
+      "month": null,
+      "figure_id": null,
+      "figure_name": "",
+      "figure_picture": null,
+      "headgear": {"id": "17349pb02", "color_id": 63},
+      "head": {"id": "3626pb1838", "color_id": 3},
+      "torso": {"id": "973pb3491c01", "color_id": 63},
+      "pants": {"id": "36036", "color_id": 63},
+      "accessory": {"id": "", "color_id": 0},
+      "note": "Haare, Oberkörper, Rock",
+      "color_notes": null
+    },
+
+    {
+      "month": null,
+      "figure_id": null,
+      "figure_name": "",
+      "figure_picture": null,
+      "headgear": {"id": "28432", "color_id": "103"},
+      "head": {"id": "3626pb0850", "color_id": 3},
+      "torso": {"id": "973pb1320c01", "color_id": 3},
+      "pants": {"id": "95351", "color_id": 6},
+      "accessory": {"id": "92289", "color_id": 115},
+      "note": "Haare, Tail",
+      "color_notes": null
+    },
+
+
+    {
+      "month": null,
+      "figure_id": null,
+      "figure_name": "miscellaneous",
+      "figure_picture": null,
+      "headgear": {"id": "973pb3706c01", "color_id": 7},
+      "head": {"id": "973pb3528c01", "color_id": 55},
+      "torso": {"id": "973pb3600c01", "color_id": 1},
+      "pants": {"id": "970c00pb0411", "color_id": 63},
+      "accessory": {"id": "970c00pb0495", "color_id": 63},
+      "note": "Einzelteile nur bei BAM",
+      "color_notes": null
+    },
+    {
+      "month": null,
+      "figure_id": null,
+      "figure_name": "miscellaneous",
+      "figure_picture": null,
+      "headgear": {"id": "970c00pb0474", "color_id": 63},
+      "head": {"id": "970c00pb1031", "color_id": 55},
+      "torso": {"id": "970c00pb1024", "color_id": 1},
+      "pants": {"id": "970c00pb0575", "color_id": 1},
+      "accessory": {"id": "36036", "color_id": 5},
+      "note": "Einzelteile nur bei BAM",
+      "color_notes": null
+    },
+    {
+      "month": null,
+      "figure_id": null,
+      "figure_name": "miscellaneous",
+      "figure_picture": null,
+      "headgear": {"id": "41879pb017", "color_id": 3},
+      "head": {"id": "3626pb2325", "color_id": 1},
+      "torso": {"id": "28430pb03", "color_id": 11},
+      "pants": {"id": "17346", "color_id": 103},
+      "accessory": {"id": "95326", "color_id": 103},
+      "note": "Einzelteile nur bei BAM",
+      "color_notes": null
+    },
+    {
+      "month": null,
+      "figure_id": null,
+      "figure_name": "miscellaneous",
+      "figure_picture": null,
+      "headgear": {"id": "29633", "color_id": 103},
+      "head": {"id": "38800", "color_id": 150},
+      "torso": {"id": "35699", "color_id": 150},
+      "pants": {"id": "12890", "color_id": 4},
+      "accessory": {"id": "38798", "color_id": 88},
+      "note": "Einzelteile nur bei BAM",
+      "color_notes": null
+    },
+    {
+      "month": null,
+      "figure_id": null,
+      "figure_name": "miscellaneous",
+      "figure_picture": null,
+      "headgear": {"id": "35701", "color_id": 88},
+      "head": {"id": "26073pb03", "color_id": 80},
+      "torso": {"id": "93221pb02", "color_id": 11},
+      "pants": {"id": "18836pb03", "color_id": 86},
+      "accessory": {"id": "75904pb01", "color_id": 86},
+      "note": "Einzelteile nur bei BAM",
+      "color_notes": null
+    },
+    {
+      "month": null,
+      "figure_id": null,
+      "figure_name": "miscellaneous",
+      "figure_picture": null,
+      "headgear": {"id": "93218pb03", "color_id": 34},
+      "head": {"id": "25975pb01", "color_id": 2},
+      "torso": {"id": "13786pb05", "color_id": 85},
+      "pants": {"id": "", "color_id": 0},
+      "accessory": {"id": "", "color_id": 0},
+      "note": "Einzelteile nur bei BAM",
+      "color_notes": null
+    }
+
+  ]
+}
