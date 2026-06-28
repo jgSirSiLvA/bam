@@ -1,0 +1,27 @@
+
+June
+Taucherin
+Oberkörper
+
+Rennradfahrer
+Kopfbedeckung, Oberkörper
+
+Basketballspieler
+P=970c00&idColor=1
+Oberkörper
+
+Summoringer
+Oberkörper, Legs
+
+Baseball Coach
+P=970c00&idColor=1
+Oberkörper, Zubehör
+
+Reiterin
+Kopfbedeckung, Oberkörper
+
+Fußball Schiedsrichter
+P=970c00&idColor=11
+Oberkörper, Zubehör
+
+
