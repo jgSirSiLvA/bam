@@ -10,8 +10,8 @@
       "torso": {"id": "973pb3415c01", "color_id": 11},
       "pants": {"id": "970c00", "color_id": 11},
       "accessory": {"id": "21459", "color_id": 95},
-      "note": null,
-      "color_notes": "Kopf"
+      "note": "Kopf",
+      "color_notes": null
     },
     {
       "month": "January",
@@ -23,8 +23,8 @@
       "torso": {"id": "973pb6484c01", "color_id": 89},
       "pants": {"id": "970c00", "color_id": 89},
       "accessory": {"id": "21459", "color_id": 98},
-      "note": null,
-      "color_notes": "Oberkörper"
+      "note": "Oberkörper",
+      "color_notes": null
     },
     {
       "month": "January",
@@ -36,8 +36,8 @@
       "torso": {"id": "973pb6540c01", "color_id": 88},
       "pants": {"id": "970c00", "color_id": 88},
       "accessory": {"id": "10172", "color_id": 115},
-      "note": null,
-      "color_notes": "Oberkörper"
+      "note": "Oberkörper",
+      "color_notes": null
     },
     {
       "month": "January",
@@ -49,8 +49,8 @@
       "torso": {"id": "973pb6570c01", "color_id": 110},
       "pants": {"id": "970cm00", "color_id": 11},
       "accessory": {"id": "7060pb01", "color_id": 150},
-      "note": null,
-      "color_notes": "Oberkörper"
+      "note": "Oberkörper",
+      "color_notes": null
     },
     {
       "month": "January",
@@ -62,8 +62,8 @@
       "torso": {"id": "973pb6481c01", "color_id": 105},
       "pants": {"id": "970c00pb1891", "color_id": 63},
       "accessory": {"id": "21459", "color_id": 115},
-      "note": null,
-      "color_notes": "Oberkörper, Beine"
+      "note": "Oberkörper, Beine",
+      "color_notes": null
     },
     {
       "month": "January",
@@ -75,8 +75,8 @@
       "torso": {"id": "973pb6539c01", "color_id": 11},
       "pants": {"id": "41879", "color_id": 11},
       "accessory": {"id": "4006", "color_id": 95},
-      "note": null,
-      "color_notes": "Oberkörper"
+      "note": "Oberkörper",
+      "color_notes": null
     },
     {
       "month": "January",
@@ -101,8 +101,8 @@
       "torso": {"id": "973pb6562c01", "color_id": 167},
       "pants": {"id": "970c00", "color_id": 5},
       "accessory": {"id": "13808", "color_id": 115},
-      "note": null,
-      "color_notes": "Kopfbedeckung, Oberkörper"
+      "note": "Kopfbedeckung, Oberkörper",
+      "color_notes": null
     },
     {
       "month": "February",
@@ -114,8 +114,8 @@
       "torso": {"id": "37191c11", "color_id": 220},
       "pants": {"id": "970c00", "color_id": 220},
       "accessory": {"id": "26603pb598", "color_id": 154},
-      "note": null,
-      "color_notes": "Haare, Oberkörper, Zubehör"
+      "note": "Haare, Oberkörper, Zubehör",
+      "color_notes": null
     },
     {
       "month": "February",
@@ -127,8 +127,8 @@
       "torso": {"id": "973pb6561c01", "color_id": 47},
       "pants": {"id": "970d63", "color_id": 153},
       "accessory": {"id": "80503pb01", "color_id": 150},
-      "note": null,
-      "color_notes": "Kopfbedeckung, Oberkörper, Beine"
+      "note": "Kopfbedeckung, Oberkörper, Beine",
+      "color_notes": null
     },
     {
       "month": "March",
@@ -140,8 +140,8 @@
       "torso": {"id": "973pb6572c01", "color_id": 158},
       "pants": {"id": "36036pb105", "color_id": 158},
       "accessory": {"id": "79736", "color_id": 34},
-      "note": null,
-      "color_notes": "Kopfbedeckung, Oberkörper, Rock"
+      "note": "Kopfbedeckung, Oberkörper, Rock",
+      "color_notes": null
     },
     {
       "month": "March",
@@ -153,8 +153,8 @@
       "torso": {"id": "973pb6573c01", "color_id": 103},
       "pants": {"id": "970cm00", "color_id": 103},
       "accessory": {"id": "93092", "color_id": 110},
-      "note": null,
-      "color_notes": "Oberkörper"
+      "note": "Oberkörper",
+      "color_notes": null
     },
     {
       "month": "March",
@@ -166,8 +166,8 @@
       "torso": {"id": "973pb6571c01", "color_id": 1},
       "pants": {"id": "41879", "color_id": 1},
       "accessory": {"id": "41835pb01", "color_id": 153},
-      "note": null,
-      "color_notes": "Oberkörper"
+      "note": "Oberkörper",
+      "color_notes": null
     },
     {
       "month": "April",
@@ -179,8 +179,8 @@
       "torso": {"id": "973pb6574c01", "color_id": 5},
       "pants": {"id": "970c00pb0411", "color_id": 5},
       "accessory": {"id": "39802pb01", "color_id": 95},
-      "note": null,
-      "color_notes": "Oberkörper"
+      "note": "Oberkörper",
+      "color_notes": null
     },
     {
       "month": "April",
@@ -192,8 +192,8 @@
       "torso": {"id": "973pb6575c01", "color_id": 110},
       "pants": {"id": "970cm00", "color_id": 153},
       "accessory": {"id": "2889pb03", "color_id": 2},
-      "note": null,
-      "color_notes": "Oberkörper"
+      "note": "Oberkörper",
+      "color_notes": null
     },
     {
       "month": "April",
@@ -205,8 +205,8 @@
       "torso": {"id": "973pb6577c01", "color_id": 155},
       "pants": {"id": "970c00pb1214", "color_id": 69},
       "accessory": {"id": "2589pb01", "color_id": 86},
-      "note": null,
-      "color_notes": "Oberkörper"
+      "note": "Oberkörper",
+      "color_notes": null
     },
     {
       "month": "April",
@@ -218,8 +218,8 @@
       "torso": {"id": "973pb6576c01", "color_id": 39},
       "pants": {"id": "970c00", "color_id": 39},
       "accessory": {"id": "98368", "color_id": 5},
-      "note": null,
-      "color_notes": "Kopf, Oberkörper"
+      "note": "Kopf, Oberkörper",
+      "color_notes": null
     }
   ]
 }
