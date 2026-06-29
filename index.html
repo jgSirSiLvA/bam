@@ -21,7 +21,7 @@
   #cards { display:grid; grid-template-columns:repeat(auto-fill,minmax(480px,1fr)); gap:10px; }
   #byline { color: #E3000B; text-align: center; }
 
-  .card { background:#333; border:1px solid #666; border-radius:8px; padding:15px; box-shadow:0 2px 8px rgba(0,0,0,.15); }
+  .card { background:#333; border:1px solid #666; border-radius:8px; padding:10px; box-shadow:0 2px 8px rgba(0,0,0,.15); }
   .header { display:flex; justify-content:space-between; align-items:center; margin-bottom:10px; }
   .month { font-size:22px; font-weight:bold; }
   .grid { display:grid; grid-template-columns:220px 110px 110px; grid-template-rows:110px 110px 110px; gap:8px; }
@@ -61,6 +61,9 @@
 </div>
 
 <div id="cards"></div>
+<div style="margin-top:20px; color:#aaa; font-size:14px;">
+    <span class="badge">&nbsp;</span> = BAM exclusive parts
+</div>
 <div id="modal" class="modal"><img id="modalImage"></div>
 
 <script>
@@ -133,11 +136,9 @@ function partBox(part) {
 
 
 function parseBadges(note) { 
-
     if(!note) return "";
 
     const badges=[];
-
     const n=note.toLowerCase();
 
     if(n.includes("alles")) { 
@@ -165,7 +166,6 @@ function parseBadges(note) {
  }
 
 function createCard(fig,index) { 
-
     const card=document.createElement("div");
     card.className="card";
 
@@ -195,7 +195,7 @@ function createCard(fig,index) {
 
     card.innerHTML=`
         <div class="header">
-            <div class="month">${fig.month ? fig.month + ' ' : ''}${fig.figure_name || ''}</div>
+            <div class="month">${fig.month ? fig.month + ' - ' : ''}${fig.figure_name || ''}</div>
             <div>#${index+1}</div>
         </div>
     `;
@@ -215,8 +215,6 @@ function createCard(fig,index) {
 
     return card;
  }
-
 </script>
-
 </body>
 </html>
